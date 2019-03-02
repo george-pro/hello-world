@@ -9,7 +9,7 @@ Start by opening cmd.exe from inside the hello-world folder.
 Install [MinGW Installation Manager (mingw-get)](https://osdn.net/projects/mingw/releases/)<br/>
 Create a '.c' file to contain your C source code (see included source code for an example)<br/>
 Compile:<br/>
-```gcc HelloC.c -o HelloC```
+```gcc HelloC.c -o HelloC```<br/>
 Creates an '.exe' file<br/>
 Run:<br/>
 ```HelloC```
@@ -17,13 +17,13 @@ Run:<br/>
 ## C\#
 Install [.Net Core 2.2](https://dotnet.microsoft.com/download)<br/>
 Create:<br/>
-```dotnet new console -o HelloC#```
+```dotnet new console -o HelloC#```<br/>
 Creates folder w/ files ending in '.cs' & '.csproj' extensions<br/>
 '.cs' is the C# source code<br/>
 '.csproj' is the C# project settings/references file<br/>
 Edit the '.cs' file as you see fit<br/>
 Run:<br/>
-```cd HelloC#```
+```cd HelloC#```<br/>
 ```dotnet run```
 
 ## C++
@@ -31,7 +31,7 @@ Install [MinGW Installation Manager (mingw-get)](https://osdn.net/projects/mingw
 Same download as C (see above)<br/>
 Create a '.cpp' file to contain your C++ source code (see included source code for an example)<br/>
 Compile:<br/>
-```g++ HelloC++.cpp -o HelloC++```
+```g++ HelloC++.cpp -o HelloC++```<br/>
 Creates an '.exe' file<br/>
 Run:<br/>
 ```HelloC++```
@@ -48,7 +48,7 @@ Run:<br/>
 Install [Java Development Kit (JDK)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)<br/>
 Create a '.java' file to contain your Java source code (see included source code for an example)<br/>
 Compile:<br/>
-```javac HelloJava.java```
+```javac HelloJava.java```<br/>
 Creates a '.class' file<br/>
 Run:<br/>
 ```java HelloJava```
