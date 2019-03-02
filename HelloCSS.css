@@ -1,0 +1,15 @@
+html::after {
+	color: red;
+	content:"Hello, CSS!";
+
+	padding-left: 20px;
+	padding-right: 20px;
+
+	border: 2px dotted blue;
+	border-radius: 10px;
+
+	outline: 1px solid green;
+	outline-offset: 2px;
+
+	margin: 50px;
+}
