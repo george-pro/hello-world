@@ -63,4 +63,4 @@ Run:<br/>
 Install [Windows x86-64 executable installer for Python 3](https://www.python.org/downloads/release/python-372/)<br/>
 Create a '.py' file to contain your Python 3 code (see included source code for an example)<br/>
 Run:<br/>
-```python HelloPython3.py```
+```py HelloPython3.py```
